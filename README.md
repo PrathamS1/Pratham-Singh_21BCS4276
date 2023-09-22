@@ -19,7 +19,6 @@
 
 - [Overview](#overview)
 - [Built With](#built-with)
-- [Contact](#contact)
 
 <!-- OVERVIEW -->
 
@@ -34,5 +33,3 @@ The HTML Music Player Project is a front-end web application designed to enhance
 - HTML5
 - CSS
 - JavaScript
-
-## Contact
